@@ -1,0 +1,5 @@
+steps
+1.Install the xampp server 
+2.And open the Xampp server and start the servecies apache,Mysql,Filezilla
+3.Open the 'localhost/phpmyadmin' in browser  and  create the database (using databse name in my code is "newcrud")
+4.Create the table id , firstname,lastname,email,mobile(using table in my code name is "crudtable")
